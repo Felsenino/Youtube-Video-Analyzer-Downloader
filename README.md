@@ -12,5 +12,5 @@ Il tool infine permette all'utente di scegliere se scaricare il video in locale.
 I put together two libraries I have never used before (TextBlob and PyTube) and Google's API "YouTube Data API v3" to create an everyday useful tool.
 It request as an input a YouTube video URL and prints title, views and the average comments polarity thanks to TextBlob. The average polarity isn't 100% accurate due to the library itself, but still adds an interesting new feature.
 This tool at the end allows the user to choose if and where download the video.
-
+ 
 + In order to get the program to work you have to insert in the code you API Key at line 7, DEVELOPER_KEY="".
